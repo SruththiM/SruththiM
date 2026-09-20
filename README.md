@@ -104,15 +104,6 @@ A centralized platform for college event registration and management.
 - 🏗️ Software Engineering Fundamentals
 
 
-# 🏆 Achievements & Activities
-
-- 🥇 **1st Prize** — College-level SQL Competition
-- 💡 **Smart India Hackathon** — Participant
-- 💃 **College Dance Club Leader**
-- 🎤 **Organized and conducted events for junior students**
-- 🏆 **State Level 1st Prize in Dance** during higher secondary education
-
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=SruththiM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
